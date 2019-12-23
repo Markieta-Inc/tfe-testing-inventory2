@@ -149,3 +149,8 @@ resource "github_repository" "example2" {
   name = "repo2"
   description = "Repository 2"
 }
+
+resource "github_repository" "example2" {
+  name = "repo2"
+  description = "Repository 2"
+}
